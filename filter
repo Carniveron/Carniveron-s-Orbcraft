@@ -94,23 +94,6 @@ Show
     Class Daggers Wands
     SocketGroup RGB
 
-### Top Craftables
-
-Show
-    BaseType "Opal Ring" "Steel Ring" "Crystal Belt"
-    SetBorderColor 210 0 0
-    PlayAlertSound 4 255
-
-Show
-    BaseType "Spiked Gloves" "Gripped Gloves"
-    ItemLevel >= 82
-    SetBorderColor 175 96 37
-
-Show
-    BaseType "Fingerless Silk Gloves"
-    ItemLevel >= 84
-    SetBorderColor 175 96 37
-
 ### Mapping
 
 Show
@@ -153,6 +136,23 @@ Show
     SetBorderColor 210 0 0
     SetTextColor 0 0 0
     SetBackgroundColor 210 0 0 160
+
+### Top Craftables
+
+Show
+    BaseType "Opal Ring" "Steel Ring" "Crystal Belt"
+    SetBorderColor 210 0 0
+    PlayAlertSound 4 255
+
+Show
+    BaseType "Spiked Gloves" "Gripped Gloves"
+    ItemLevel >= 82
+    SetBorderColor 175 96 37
+
+Show
+    BaseType "Fingerless Silk Gloves"
+    ItemLevel >= 84
+    SetBorderColor 175 96 37
 
 ### Misc Valuables
 
