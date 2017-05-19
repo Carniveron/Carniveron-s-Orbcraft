@@ -1,4 +1,4 @@
-### Sections: Currency, Vendor Recipes, Craftables, Mapping, Misc Valuables
+### Sections: Currency, Vendor Recipes, Mapping, Craftables, Misc Valuables
 
 ### Currency, border highlights red>orange>yellow>blue>none
 
@@ -161,7 +161,7 @@ Show
     BaseType "Portal" "Empower" "Enlighten" "Enhance" "Vaal Haste" "Item Quantity"
 
 Show
-    BaseType Talisman "Breach Ring" "Fishing Rod" Relic
+    BaseType Talisman "Breach Ring" "Fishing Rod"
 
 Show
     Rarity = Unique
